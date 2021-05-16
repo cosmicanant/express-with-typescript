@@ -1,0 +1,1 @@
+{"version":3,"file":"AppRouter.js","sourceRoot":"","sources":["../src/AppRouter.ts"],"names":[],"mappings":";;;;;;AAAA,sDAA8B;AAE9B,MAAa,SAAS;IAGpB,MAAM,KAAK,QAAQ;QACjB,IAAG,CAAC,SAAS,CAAC,SAAS,EAAE;YACvB,SAAS,CAAC,SAAS,GAAG,iBAAO,CAAC,MAAM,EAAE,CAAC;SACxC;QACD,OAAO,SAAS,CAAC,SAAS,CAAC;IAC7B,CAAC;CACF;AATD,8BASC"}
